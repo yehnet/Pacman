@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pacman-bgu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pacman_bgu_jar</output-path>
+    <root id="archive" name="Pacman-bgu.jar">
+      <element id="module-output" name="Pacman-bgu" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
